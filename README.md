@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayushakar1
 - 👀 I’m interested in learning new things, without disturbing my sleep schedule.😁
-- 🌱 I’m currently learning data structures and web development.
+- 🌱 I’m currently learning data structures and web development and python.
 - 💞️ I’m looking to collaborate on projects based on web dev.
 - 📫 Reach me through my instagram account: https://www.instagram.com/she.ayusha.kar/?hl=en 
 
