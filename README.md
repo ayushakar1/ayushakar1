@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/ayusha-kar-98b488207/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="max-width: 100%;"></a>
   <br/>
  <a href="mailto:ayushakar1@gmail.com"> <img src="https://camo.githubusercontent.com/9380e6feb003cce9c0e28a3203bcda801186a1c38d2282d2e266826680751b9e/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6d61696c626f782d636c6f7365642d666c61672d646f776e2d2d76322e706e67" alt="Mail" height="50" style="vertical-align:top; margin:4px"></a>
-  <a href="https://www.twitter.com/kahanikaar_" rel="nofollow">
+  <a href="https://twitter.com/kar_ayusha" rel="nofollow">
   <img alt="Ayusha's Twitter" width=45px" src="https://camo.githubusercontent.com/8753feb9b47484dea26b9e92666aa9791f1873d2eb0e43feb30276f02a61f73c/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f747769747465722d636972636c65642e706e67"  style="max-width:100%;">
 </a>
 </p>
