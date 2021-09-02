@@ -10,7 +10,7 @@
     <b>In a nutshell:</b>
   </p>
   
-- 👀 I’m interested in learning new things, without disturbing my sleep schedule.😁
+- 👀 I’m curious about learning new things, without disturbing my sleep schedule.😁
 - 🌱 I’m currently learning data structures, web development and python.
 - 💞️ I’m looking to collaborate on projects based on web dev.
 - 🥰 My interests includes digital designing and slowly channeling into video graphy. Also writing my heart down.
