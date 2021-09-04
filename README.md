@@ -37,6 +37,7 @@
 <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://camo.githubusercontent.com/91624b4794cb98081ea55063865721be4b4399472c81e66b89b37fd07aad1d92/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f68746d6c2d352e706e67" alt="HTML5" data-canonical-src="https://img.icons8.com/color/48/000000/html-5.png" style="max-width:100%;"> </a>
 <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://camo.githubusercontent.com/dc75aee770dff630309493116eeebd6a39c7042e4e94780a5e6c8f107bebe76f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f637373332e706e67" alt="CSS3" data-canonical-src="https://img.icons8.com/color/48/000000/css3.png" style="max-width:100%;"> </a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/2771059ece39a91f0ca8afe0205a540e3af66f435508ba80b080eb249479d4dc/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f632d70726f6772616d6d696e672e706e67"><img src="https://camo.githubusercontent.com/2771059ece39a91f0ca8afe0205a540e3af66f435508ba80b080eb249479d4dc/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f632d70726f6772616d6d696e672e706e67" alt="C" data-canonical-src="https://img.icons8.com/color/48/000000/c-programming.png" style="max-width:100%;"></a>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/11f0b3afa30619b424e9b29eea0b3bc9faa9a6d33c66e1ad20fc5d018f7a11f6/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f707974686f6e2d2d76312e706e67"><img src="https://camo.githubusercontent.com/11f0b3afa30619b424e9b29eea0b3bc9faa9a6d33c66e1ad20fc5d018f7a11f6/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f707974686f6e2d2d76312e706e67" alt="Python" data-canonical-src="https://img.icons8.com/color/48/000000/python--v1.png" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/146631708b549852bc9ebefc88c25fa492d89c3d71caef6ecd899f622e416309/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f616d617a6f6e2d7765622d73657276696365732e706e67"><img src="https://camo.githubusercontent.com/146631708b549852bc9ebefc88c25fa492d89c3d71caef6ecd899f622e416309/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f616d617a6f6e2d7765622d73657276696365732e706e67" alt="AWS" data-canonical-src="https://img.icons8.com/color/48/000000/amazon-web-services.png" style="max-width:100%;"></a>
 </p>
@@ -50,9 +51,18 @@
                                                                                                                                       
 ![](https://visitor-badge.laobi.icu/badge?page_id=ayushakar1.ayushakar1)   <br/>                                                                                                        ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushakar1&show_icons=true&theme=midnight-purple)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushakar1&theme=midnight-purple)  
                                                                                                                                       
-[![Ayusha's github activity graph](https://activity-graph.herokuapp.com/graph?username=ayushakar1&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ayushakar1&bg_color=000000&color=7F22FE&line=7F22FE&area_color=A160FA&point=DCC5FC&hide_border=true&area=true)
 
-                                                                                                                                      
+ ## 🔥 Streak stats
+
+
+<p align="center">
+  <a href="https://github.com/ayushakar1">
+    <img  alt="ayushakar1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushakar1&theme=midnight-purple&hide_border=true"/>
+  </a>
+  
+</p>
+                                                                                                                                     
                                                                                                                                     
                                                                                                                                       
 
