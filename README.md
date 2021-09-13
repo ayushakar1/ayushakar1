@@ -12,7 +12,7 @@
   </p>
   
 - 👀 I’m curious about learning new things, without disturbing my sleep schedule.😁
-- 🌱 I’m currently learning data structures, web development and data science.
+- 🌱 I’m currently learning data science.
 - 💞️ I’m looking to collaborate on projects based on web dev.
 - 🥰 My interests includes digital designing and slowly channeling into video graphy. Also writing my heart down.
 - ✨ A little nobody, chasing to be somebody.
