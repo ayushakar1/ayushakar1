@@ -40,6 +40,7 @@
  <a href="https://instagram.com/she.ayusha.kar/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a> <!--Youtube-->
   <a href="https://www.youtube.com/channel/UCGeQhmH-iI0t-wCmt9P08Sw/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ayushakar_youtube" height="40" width="50" /></a> <!--Hakerrank-->
   <a href="https://www.hackerrank.com/ayushakar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hakerrank" height="50" width="40" /></a> 
+    <a href="https://stackoverflow.com/users/16911646/ayusha-kar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16831041" height="30" width="40" /></a>
    
 </p>
 
