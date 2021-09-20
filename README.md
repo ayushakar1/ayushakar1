@@ -1,6 +1,6 @@
 <h1>
   👋 Hi, I’m Ayusha Kar
-  <img alt="." src="https://emojis.slackmojis.com/emojis/images/1605722420/11386/among_us_orange_dance.gif?1605722420" width="40">
+  <img alt="." src="https://emojis.slackmojis.com/emojis/images/1613942497/14160/mario_wave.gif?1613942497" width="45">
 </h1>  
   
  <p style="font-size:10%;" style="font-family:verdana;"> 
@@ -25,6 +25,8 @@
 <p style="font-size:20%;" style="font-family:verdana;">
     <b>In a nutshell:</b>
   </p>
+  
+  <img align="right" height="150" alt="img" src="https://emojis.slackmojis.com/emojis/images/1577982316/7421/typingcat.gif?1577982316" padding="3px"  />
   
 - 👀 I’m curious about learning new things, without disturbing my sleep schedule.😁
 - 🌱 I’m currently learning data science.
