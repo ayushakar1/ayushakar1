@@ -1,5 +1,5 @@
-<h1>
-  👋 Hi, I’m Ayusha Kar
+<h1 align="center">
+  Hi, I’m Ayusha Kar
   <img alt="." src="https://emojis.slackmojis.com/emojis/images/1613942497/14160/mario_wave.gif?1613942497" width="45">
 </h1>  
   
