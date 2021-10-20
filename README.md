@@ -52,9 +52,9 @@
 
 <summary><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> GitHub Profile Stats</summary>
 <br>
-
                                                                                                                                       
-![](https://visitor-badge.laobi.icu/badge?page_id=ayushakar1.ayushakar1)   <br/>                                                                                                        ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushakar1&show_icons=true&theme=midnight-purple)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushakar1&langs_count=20&layout=compact&theme=midnight-purple&hide_border=true)  
+![](https://visitor-badge.laobi.icu/badge?page_id=ayushakar1.ayushakar1)  
+    <br/>                                                                                                        ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushakar1&show_icons=true&theme=midnight-purple&hide_border=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushakar1&langs_count=20&layout=compact&theme=midnight-purple&hide_border=true)  
                                                                                                                                       
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ayushakar1&bg_color=000000&color=7F22FE&line=7F22FE&area_color=A160FA&point=DCC5FC&hide_border=true&area=true)
 
