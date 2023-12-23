@@ -4,7 +4,7 @@
 </h1>  
   
  <p style="font-size:10%;" style="font-family:verdana;"> 
-  Hey there! Glad you were intrested enough to visit. I hail from Rourkela and completed my secondary schooling from <b>Delhi Public School, Rourkela</b> and senior secondary from <b>ODM International, Bhubaneshwar</b>. Currently a <i><b>Computer Engineering</b></i> undergrad from <b>IIIT Bhubaneshwar</b>.
+  Hey there! I'm glad you were interested enough to visit. I hail from Rourkela and am currently a final year B.tech (Computer Engineering) student from <b>IIIT Bhubaneshwar</b>. I have been a Microsoft Learn Student Ambassador since 2021 and the <b>Google DSC Lead'22</b>. Currently, I am interning at Dell and learning about new technologies every day.
   </p>
   
   
